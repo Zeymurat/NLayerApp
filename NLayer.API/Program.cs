@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using Nlayer.Core.Repository;
+using Nlayer.Core.Repositories;
 using Nlayer.Core.UnitOfWorks;
 using NLayer.Repository;
 using NLayer.Repository.Repositories;
